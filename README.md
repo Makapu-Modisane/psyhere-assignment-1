@@ -8,6 +8,7 @@ V = Voltage(in Volts)
 I = Current (in amperes)
 R = Resistance 
 
- _ Coded by Makapu-Modisane _
+
+ _Coded by Makapu-Modisane _
 
 
